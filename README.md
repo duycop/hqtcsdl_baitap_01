@@ -19,7 +19,7 @@
    Nếu thấy dòng: **TCP    0.0.0.0:xxxxx**  với xxxxx là cổng đã chọn ở bước 2 là OK.
 4. Cài đặt SQL Server Management Studio
 
-   Link tải SMSS: https://learn.microsoft.com/en-us/ssms/install/install
+   Link tải SSMS: https://learn.microsoft.com/en-us/ssms/install/install
 5. Đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication.
 
    Servername: localhost,xxxxx  (với xxxxx là cổng đã chọn ở bước 2)
