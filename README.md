@@ -16,7 +16,7 @@
 
    Sử dụng lệnh trên cmd: *netstat -ano | findstr LISTENING* để liệt kê các cổng mà máy tính đang mở,
 
-   Nếu thấy dòng: **TCP    0.0.0.0:xxxxx**  với xxxxx là cổng đã chọn ở bước 3 là OK.
+   Nếu thấy dòng: **TCP    0.0.0.0:xxxxx**  với xxxxx là cổng đã chọn ở bước 2 là OK.
 4. Cài đặt SQL Server Management Studio
 
    Link tải SMSS: https://learn.microsoft.com/en-us/ssms/install/install
