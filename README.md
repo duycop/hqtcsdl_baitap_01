@@ -20,7 +20,7 @@
 4. Cài đặt SQL Server Management Studio
 
    Link tải SSMS: https://learn.microsoft.com/en-us/ssms/install/install
-5. Đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication.
+5. Chạy phần mềm ssms để Đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication.
 
    Servername: localhost,xxxxx  (với xxxxx là cổng đã chọn ở bước 2)
 6. Sử dụng giao diện đồ hoạ của ssms: Tạo cơ sở dữ liệu mới (create database) với tên tuỳ ý, chọn Path (nơi lưu trữ db) cho file lưu dữ liệu và file lưu log ở ổ đĩa khác với ổ C. mở path đã chọn xem 2 file đã tạo ra.
