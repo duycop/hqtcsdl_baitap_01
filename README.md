@@ -27,7 +27,7 @@
 7. Sử dụng giao diện đồ hoạ của ssms: Tạo bảng dữ liệu (create and design table) với tên bảng tuỳ ý, có các trường dữ liệu phù hợp với dữ liệu của file [data mẫu (CSV)](./svtnut.csv?raw=true), với Khoá chính (Primary Key) là trường **masv**
 8. Sử dụng giao diện đồ hoạ của ssms: Tìm cách import dữ liệu từ file mẫu vào trong bảng vừa tạo.
 9. Mở cửa sổ mới để gõ lệnh trong ssms: GÕ lệnh để kiểm tra xem số dòng của bảng dữ liệu sau khi import, kết quả ok sẽ khoảng 12020 dòng.
-10. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để thêm (insert) 1 row vào bảng, với dữ liệu là thông tin cá nhân của sv đang làm bài (mỗi sv sẽ luôn khác nhau ở bước này).12. 
+10. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để thêm (insert) 1 row vào bảng, với dữ liệu là thông tin cá nhân của sv đang làm bài (mỗi sv sẽ luôn khác nhau ở bước này). 
 11. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để cập nhật(update) trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL.
 12. Sử dụng giao diện đồ hoạ của ssms: Tạo bảng **SaoHoa** gồm những sinh viên có nơi sinh ở 'Sao Hoả', keyword gợi ý: sử dụng 1 câu lệnh: SELECT + INTO
 13. Trong cửa sổ mới để gõ lệnh: Gõ lệnh xoá (delete) trong bảng **SaoHoa** những sinh viên cùng họ với em, vd em họ nguyễn thì xoá những sv họ nguyễn.
@@ -63,7 +63,7 @@ khi làm theo các bước yêu cầu bài tập: nhớ chụp FULL màn hình, 
 1. SV cần đọc kỹ yêu cầu và hướng dẫn làm bài, rồi làm theo, chỗ nào không hiểu thì hỏi trên nhóm zalo
 2. Kết quả: mọi kết quả sv tự làm trên máy tính cá nhân, tự đẩy lên repository trong github cá nhân, để quyền truy cập public để ai cũng xem được (trong đó có thầy). trong repository bài tập này chỉ có 2 file: **README.md** và **dulieu.sql**, bài tập khác sẽ làm ở repository khác, không làm cùng repository nào khác.
 3. Chú ý: Thời gian lưu vết trên github ko fake được, mọi sửa đổi đều được lưu lại. Mọi thứ copy đều bị phát hiện tự động bởi tool (**sv vi phạm chắc chắn 100% sẽ bị cấm thi**)
-4. Deadline: 23:59:59 ngày 12 tháng 4 năm 2026. (deadline được hiểu là hạn chót phải **hoàn thành**, hoàn thành === làm đủ 17 yêu cầu, thiếu 1 yêu cầu tương đương chưa hoàn thành, thời gian hoàn thành sớm hơn OK, hơn bị cấm thi)
+4. Deadline: 23:59:59 ngày 12 tháng 4 năm 2026. (deadline được hiểu là hạn chót phải **hoàn thành**, hoàn thành === làm đủ 17 yêu cầu, thiếu 1 yêu cầu tương đương chưa hoàn thành, thời gian hoàn thành sớm hơn OK, muộn hơn bị cấm thi)
 5. Link public cuả repository được paste vào đúng dòng của file excel online sau: (phải login bằng tài khoản @tnut thì mới edit được, đừng xin quyền edit, thầy đã cấp quyền edit cho sv thuộc ds lớp, phải xin quyền edit tức là chưa login đúng tài khoản)
 
    Link file excel online để dán link repository: https://docs.google.com/spreadsheets/d/1iwHJ6qSFKkS3iUjtlbCxw_0jUWC56PnCso1kcgxOEas/edit?usp=sharing
