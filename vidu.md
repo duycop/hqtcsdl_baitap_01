@@ -60,6 +60,15 @@
 
     Cách login sử dụng username và password còn được áp dụng cho các máy chủ ở xa, trong cùng LAN, hoặc ở ngoài internet
 
+    Thử kết nối bằng CLIENT khác (phần mềm siêu nhẹ HeidiSQL) qua giao thức named pipe siêu nhanh
+
+    <img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/4debdb4a-215b-4d61-a560-2e9b6e9de54c" />
+
+    Thử truy vấn thấy ok, siêu nhanh:
+
+    <img width="1919" height="402" alt="image" src="https://github.com/user-attachments/assets/e8c1767e-a7b4-486e-992e-ae3b01451925" />
+
+
 # Edit file trên github theo cú pháp MarkDown
 
 1. Khi EDIT thì chỉ nhìn thấy text và text (theo cú pháp Markdown) chứ ko thấy format đậm, nghiêng, ảnh, ...
