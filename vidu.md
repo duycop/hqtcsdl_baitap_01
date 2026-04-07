@@ -28,5 +28,43 @@
 
    <img width="786" height="332" alt="image" src="https://github.com/user-attachments/assets/e5557047-fded-4a6d-a919-20f59e8f7ab7" />
 
+8. Kiểm tra cổng xxxxx có đang mở
+
+   <img width="1197" height="736" alt="image" src="https://github.com/user-attachments/assets/efde8963-6c12-4c2b-94ba-1c128135b6dd" />
+
+   Kiểm tra lại bằng tool [CurrPorts v2.77](https://www.nirsoft.net/utils/cports.html) - Monitoring Opened TCP/IP network ports
+
+   <img width="1103" height="689" alt="image" src="https://github.com/user-attachments/assets/4fbdc81f-735d-4d40-a30a-ae9b98013bd1" />
+
+   Thấy đúng là SQL Server đang mở cổng xxxxx này thật
+   
+   <img width="1267" height="992" alt="image" src="https://github.com/user-attachments/assets/f9aa3244-ef17-45e7-aaca-c992bbb261ea" />
+
+10. Kết nối từ SSMS tới SQL Server:
+
+    *Kết nối bằng Windows Auth:
+
+    <img width="971" height="717" alt="image" src="https://github.com/user-attachments/assets/7d499211-6b22-4d9d-8ded-71a85e7bc62b" />
+
+    Kết quả login thành công: (cách này chỉ áp dụng cho SQL Server trên cùng 1 máy tính với client, ở đây SSMS là client)
+
+    <img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/34d97660-40e2-4c1d-b779-2daeb3aec9b0" />
+
+    *Kết nối sử dụng username và password:
+
+    <img width="1097" height="739" alt="image" src="https://github.com/user-attachments/assets/5c892161-5137-4bb2-b711-2a0bdfa57fad" />
+
+    Kết quả login cũng thành công:
+
+    <img width="775" height="426" alt="image" src="https://github.com/user-attachments/assets/cb51019c-30d0-4577-8cc2-be30c4416435" />
+
+    Cách login sử dụng username và password còn được áp dụng cho các máy chủ ở xa, trong cùng LAN, hoặc ở ngoài internet
+
+
+
+    
+
+   
+
 
    
