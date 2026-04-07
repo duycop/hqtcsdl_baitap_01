@@ -1,4 +1,4 @@
-# Một số hình ảnh về SQL Server
+<img width="1467" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd6efb9b-f937-4f9a-a73d-627e7867365d" /># Một số hình ảnh về SQL Server
 
 1. Các service đang chạy
 
@@ -42,7 +42,7 @@
 
 10. Kết nối từ SSMS tới SQL Server:
 
-    *Kết nối bằng Windows Auth:
+    * Kết nối bằng Windows Auth:
 
     <img width="971" height="717" alt="image" src="https://github.com/user-attachments/assets/7d499211-6b22-4d9d-8ded-71a85e7bc62b" />
 
@@ -50,7 +50,7 @@
 
     <img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/34d97660-40e2-4c1d-b779-2daeb3aec9b0" />
 
-    *Kết nối sử dụng username và password:
+    * Kết nối sử dụng username và password:
 
     <img width="1097" height="739" alt="image" src="https://github.com/user-attachments/assets/5c892161-5137-4bb2-b711-2a0bdfa57fad" />
 
@@ -60,11 +60,19 @@
 
     Cách login sử dụng username và password còn được áp dụng cho các máy chủ ở xa, trong cùng LAN, hoặc ở ngoài internet
 
+# Edit file trên github theo cú pháp MarkDown
 
+1. Khi EDIT thì chỉ nhìn thấy text và text (theo cú pháp Markdown) chứ ko thấy format đậm, nghiêng, ảnh, ...
 
-    
-
+   <img width="994" height="985" alt="image" src="https://github.com/user-attachments/assets/f3fd822a-a491-4c10-8c72-b7a8e2e8ae17" />
    
-
-
+3. Preview thì thấy văn bản được format (sẽ thấy hình ảnh):
    
+   <img width="1224" height="714" alt="image" src="https://github.com/user-attachments/assets/16f72d96-2adf-4db6-bd2c-1b332e4c3972" />
+   
+4. Sau khi chụp ảnh, đặt con trỏ vào chỗ cần dán ảnh, gõ CTRL+V thì sẽ thấy xuấy hiện uploading..., đợi vài giây sẽ upload ảnh xong và thay đổi thành < img ...
+   
+   <img width="1029" height="302" alt="image" src="https://github.com/user-attachments/assets/559ac0f1-01d9-4e74-8c55-9d95a5ddcffe" />
+
+
+
