@@ -1,4 +1,4 @@
-<img width="1467" height="1012" alt="image" src="https://github.com/user-attachments/assets/bd6efb9b-f937-4f9a-a73d-627e7867365d" /># Một số hình ảnh về SQL Server
+# Một số hình ảnh về SQL Server
 
 1. Các service đang chạy
 
