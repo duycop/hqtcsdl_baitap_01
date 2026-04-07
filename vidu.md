@@ -40,33 +40,39 @@
    
    <img width="1267" height="992" alt="image" src="https://github.com/user-attachments/assets/f9aa3244-ef17-45e7-aaca-c992bbb261ea" />
 
-10. Kết nối từ SSMS tới SQL Server:
+9. Kết nối tới SQL Server:
 
-    * Kết nối bằng Windows Auth:
+   ** CLIENT SSMS
 
-    <img width="971" height="717" alt="image" src="https://github.com/user-attachments/assets/7d499211-6b22-4d9d-8ded-71a85e7bc62b" />
+   <img width="471" height="509" alt="image" src="https://github.com/user-attachments/assets/c580505e-3ead-4412-b1bf-658748aefdfb" />
 
-    Kết quả login thành công: (cách này chỉ áp dụng cho SQL Server trên cùng 1 máy tính với client, ở đây SSMS là client)
+   ** Kết nối bằng Windows Auth:
 
-    <img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/34d97660-40e2-4c1d-b779-2daeb3aec9b0" />
+   <img width="971" height="717" alt="image" src="https://github.com/user-attachments/assets/7d499211-6b22-4d9d-8ded-71a85e7bc62b" />
 
-    * Kết nối sử dụng username và password:
+   Kết quả login thành công: (cách này chỉ áp dụng cho SQL Server trên cùng 1 máy tính với client, ở đây SSMS là client)
 
-    <img width="1097" height="739" alt="image" src="https://github.com/user-attachments/assets/5c892161-5137-4bb2-b711-2a0bdfa57fad" />
+   <img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/34d97660-40e2-4c1d-b779-2daeb3aec9b0" />
 
-    Kết quả login cũng thành công:
+   ** Kết nối sử dụng username và password:
 
-    <img width="775" height="426" alt="image" src="https://github.com/user-attachments/assets/cb51019c-30d0-4577-8cc2-be30c4416435" />
+   <img width="1097" height="739" alt="image" src="https://github.com/user-attachments/assets/5c892161-5137-4bb2-b711-2a0bdfa57fad" />
 
-    Cách login sử dụng username và password còn được áp dụng cho các máy chủ ở xa, trong cùng LAN, hoặc ở ngoài internet
+   Kết quả login cũng thành công:
 
-    Thử kết nối bằng CLIENT khác (phần mềm siêu nhẹ HeidiSQL) qua giao thức named pipe siêu nhanh
+   <img width="775" height="426" alt="image" src="https://github.com/user-attachments/assets/cb51019c-30d0-4577-8cc2-be30c4416435" />
 
-    <img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/4debdb4a-215b-4d61-a560-2e9b6e9de54c" />
+   Cách login sử dụng username và password còn được áp dụng cho các máy chủ ở xa, trong cùng LAN, hoặc ở ngoài internet
 
-    Thử truy vấn thấy ok, siêu nhanh:
+   Thử kết nối bằng CLIENT khác (phần mềm siêu nhẹ [HeidiSQL](https://www.heidisql.com/)) qua giao thức **named pipe** siêu nhanh
 
-    <img width="1919" height="402" alt="image" src="https://github.com/user-attachments/assets/e8c1767e-a7b4-486e-992e-ae3b01451925" />
+   <img width="515" height="421" alt="image" src="https://github.com/user-attachments/assets/ed5b38e7-2af2-41be-9452-e4d905c71ec2" />
+
+   <img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/cd0c7df7-e5ac-4886-abc1-7dbe4168f806" />
+
+   Thử truy vấn thấy ok, siêu nhanh:
+
+   <img width="1919" height="402" alt="image" src="https://github.com/user-attachments/assets/e8c1767e-a7b4-486e-992e-ae3b01451925" />
 
 
 # Edit file trên github theo cú pháp MarkDown
