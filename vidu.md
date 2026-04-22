@@ -87,6 +87,7 @@
    
 4. Sau khi chụp ảnh, đặt con trỏ vào chỗ cần dán ảnh, gõ CTRL+V thì sẽ thấy xuấy hiện uploading..., đợi vài giây sẽ upload ảnh xong và thay đổi thành < img ...
    
+   
    <img width="1029" height="302" alt="image" src="https://github.com/user-attachments/assets/559ac0f1-01d9-4e74-8c55-9d95a5ddcffe" />
 
 
