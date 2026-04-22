@@ -1,5 +1,6 @@
 USE [master]
 GO
+	-- file này mô tả cách dùng sp để xử lý tình huống 1s lại đưa dữ liệu mới về từ 1 cảm biến, có hàng 100 cảm biến. bảng history sẽ lưu trữ lịch sử cháy, chỉ lưu thay đổi. khi ko đổi thì chỉ cập nhật time_end
 /****** Object:  Database [BaoChay]    Script Date: 2026-04-21 5:26:23 PM ******/
 CREATE DATABASE [BaoChay]
  CONTAINMENT = NONE
