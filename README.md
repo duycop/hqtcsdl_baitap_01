@@ -31,7 +31,7 @@
 3. **Hình thức chấm:**
   - Giảng viên sẽ kiểm tra tính đúng đắn của logic, cách đặt tên theo quy chuẩn và đối soát thời gian lưu vết trên GitHub (Commit history).
 
-4. **Deadline:** 23:59:59 ngày 28 tháng 4 năm 2026.
+4. **Deadline:** 23:59:59 ngày 03 tháng 5 năm 2026. (hạn rất dài, muộn là quá lười)
 
 ## NỘI DUNG YÊU CẦU (GỒM 5 PHẦN):
 
